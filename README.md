@@ -10,7 +10,6 @@ This is a learning project made while studying the Godot Engine.
 ## Features
 - Player movement
 - Enemy AI
-- Basic combat
 - Simple platformer mechanics
 
 ## Engine
